@@ -1,0 +1,19 @@
+al cargar la pagina se muestra 
+	rodrigo olivares
+	Hola! Toca en cada hoja o petalo que veas para ver todo el contenido de mi portfolio
+
+a medida que se scrollea, se puede ver el resto de la rama y las hojas o petalos
+
+podria poner la hoja en el enlace a una seccion y su flor en el bg de la seccion
+
+sobre mi
+
+proyectos
+
+experiencias
+
+contacto
+
+dependiendo de la cantidad de cosas de cada seccion es la planta que pongo
+
+si dos hojas se superponen por lo que sea, entonces una tapa a la otra
